@@ -2,11 +2,11 @@
   "name": "test-task",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://persatyi.github.io/G-M-test-task",
+  "homepage": "https://github.com/Persatyi/test-task",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /G-M-test-task/"
+    "build": "parcel build src/*.html --public-url /test-task/"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.12.0",
