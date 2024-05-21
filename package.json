@@ -2,6 +2,7 @@
   "name": "test-task",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://persatyi.github.io/G-M-test-task",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/*.html",
