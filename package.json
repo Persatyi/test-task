@@ -2,7 +2,7 @@
   "name": "test-task",
   "version": "1.0.0",
   "main": "index.js",
-  "homepage": "https://github.com/Persatyi/test-task",
+  "homepage": "https://persatyi.github.io/test-task/",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/*.html",
@@ -10,9 +10,9 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "2.12.0",
-    "posthtml-include": "^1.6.2",
     "parcel": "^2.12.0",
     "parcel-bundler": "^1.12.5",
+    "posthtml-include": "^1.6.2",
     "sass": "^1.77.2"
   },
   "dependencies": {
